@@ -1,6 +1,6 @@
-<h1>Olá! Meu nome é Victor!👋</h1>
+# Olá! Meu nome é Victor!👋
 
-<h2>Redes Sociais:</h2>
+## Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gonçalves-barbosa/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victorevii)
@@ -9,7 +9,7 @@
 [![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Evi-kun)
 
 
-<h2>Hobbies:</h2>
+## Hobbies:
 
 ![Pokemon](https://img.shields.io/badge/Pok%C3%A9mon-FFCB05.svg?style=for-the-badge&logo=Pok%C3%A9mon&logoColor=black)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/evi_eu)
@@ -19,7 +19,7 @@
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/evi.cos_/)
 
-<h2>Linguagens e IDE's</h2>
+## Linguagens e IDE's
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,7 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Victorevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorevi&show_icons=true&theme=synthwave)
 
 <!--
 **Victorevi/Victorevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
