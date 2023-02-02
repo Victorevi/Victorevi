@@ -23,8 +23,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/evi.cos_/)
 </br></br>
 
-<div style="display: inline_block; text-align: center"></br>
-    <h2 style="text-align: left">Linguagens e IDE's:</h2></br>
+<h2 style="text-align: left">Linguagens e IDE's:</h2></br>
+    <div align= center; style="display: inline_block; text-align: center"></br>
     <img align="center" alt="Evi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Evi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Evi-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -35,8 +35,8 @@
     <img align="center" alt="Evi-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Evi-PyCharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
     <img align="center" alt="Evi-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></br></br>
+    </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
-</div>
+<img align="right" alt="Evi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
 </boby>
