@@ -1,5 +1,5 @@
 <boby>
-<h1>Olá! Meu nome é Victor!👋</h1></br>
+<h1>Olá! Meu nome é Victor!<img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1752/1752681.png"></h1></br>
 
 <h2>Redes Sociais:</h2>
 
@@ -11,8 +11,10 @@
 </br></br>
 
 <h2>Hobbies:</h2>
+<img alt="Pokeball" height="30" width="30" src="https://img.icons8.com/fluency/256/pokeball.png">
+<img alt="Pokedex" height="30" width="30" src="https://img.icons8.com/color/256/pokedex.png">
 
-![Pokemon](https://img.shields.io/badge/Pok%C3%A9mon-FFCB05.svg?style=for-the-badge&logo=Pok%C3%A9mon&logoColor=black)
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/evi_eu)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -35,5 +37,6 @@
     <img align="center" alt="Evi-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
 </div>
 </boby>
