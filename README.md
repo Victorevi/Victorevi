@@ -24,7 +24,7 @@
 </br></br>
 
 <h2 style="text-align: left">Linguagens e IDE's:</h2></br>
-    <div align= center; style="display: inline_block; text-align: center"></br>
+    <div align= center; style="display:text-align: center"></br>
     <img align="center" alt="Evi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Evi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Evi-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
