@@ -1,5 +1,5 @@
 <boby>
-<h1>Olá! Meu nome é Victor!<img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1752/1752681.png"></h1></br>
+<h1>Olá! Meu nome é Victor!<img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1752/1752681.png"></h1>
 
 <!--Contato-->
 
