@@ -23,9 +23,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/evi.cos_/)
 </br></br>
 
-<h2 style="text-align: left">Linguagens e IDE's:</h2></br>
+<h2 style="text-align: left">Linguagens e IDE's:</h2>
     <div style="text-align: center"></br>
-        <img align="center" alt="Evi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img align="center" alt="Evi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="text-align: center" />
         <img align="center" alt="Evi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img align="center" alt="Evi-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <img align="center" alt="Evi-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
