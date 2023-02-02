@@ -5,7 +5,7 @@
 
 <h2>Contato:</h2>
 <a href="https://www.linkedin.com/in/victor-gonçalves-barbosa/)"><img alt="Evi-LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px"></a>
-<a href="https://cursos.alura.com.br/user/victorevi)"><img alt="Evi-Alura" src="https://i.postimg.cc/L5mh4rgV/Alura-badge1-0.png" style="border-radius:50px"></a>
+<a href="https://cursos.alura.com.br/user/victorevi"><img alt="Evi-Alura" src="https://i.postimg.cc/L5mh4rgV/Alura-badge1-0.png" style="border-radius:50px"></a>
 <a href="mailto:victor_eco@hotmail.com"><img alt="Evi-Hotmail" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" style="border-radius:50px"></a>
 
 <!--Hobbies-->
@@ -30,6 +30,6 @@
         <img align="center" alt="PyCharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
         <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></br></br>
     </div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave"></a>
 <img align="right" alt="Evi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
 </boby>
