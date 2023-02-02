@@ -13,15 +13,10 @@
 <h2>Hobbies:</h2>
 <img alt="Pokeball" height="30" width="30" src="https://img.icons8.com/fluency/256/pokeball.png">
 <img alt="Pokedex" height="30" width="30" src="https://img.icons8.com/color/256/pokedex.png">
-
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/evi_eu)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/evi.cos_/)
-<img alt="Spotify" url="https://open.spotify.com/user/evi_eu" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="border-radius:50px;">
+<img alt="Riot" height="30" width="30" src="https://i.pinimg.com/originals/90/6d/23/906d231cbaff55c77fb97191592e1c76.png">
+<img alt="Lol" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/2048px-LoL_icon.svg.png">
+<a href="https://www.instagram.com/evi.cos_/"><img alt="Instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
+<a href="https://open.spotify.com/user/evi_eu"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="border-radius:50px"></a>
 </br></br>
 
 <h2 style="text-align: left">Linguagens e IDE's:</h2>
