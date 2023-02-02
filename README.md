@@ -21,6 +21,7 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/evi.cos_/)
+<img alt="Spotify" url="https://open.spotify.com/user/evi_eu" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="border-radius:50px;">
 </br></br>
 
 <h2 style="text-align: left">Linguagens e IDE's:</h2>
