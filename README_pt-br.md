@@ -38,3 +38,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave"></a>
 <img align="right" alt="Evi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
 </boby>
+[url=https://myanimelist.net/animelist/Evi-kun&sclick=1][IMG]https://cdn.myanimelist.net/signature/Evi-kun.png[/IMG][/url] 
