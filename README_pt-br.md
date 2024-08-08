@@ -13,6 +13,12 @@
 <a href="https://cursos.alura.com.br/user/victorevi"><img alt="Evi-Alura" src="https://i.postimg.cc/L5mh4rgV/Alura-badge1-0.png" style="border-radius:50px"></a>
 <a href="mailto:victor_eco@hotmail.com"><img alt="Evi-Hotmail" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" style="border-radius:50px"></a>
 
+<!--Profissional-->
+
+<h2>Profissional:</h2>
+<p style="font-size: 15px;">Sou desenvolvedor ServiceNow, e desenvolvo soluções customizadas, utilizando JavaScript e Python. Possuo profundo conhecimento da plataforma ServiceNow, incluindo RPA, Mid Server, Ui Builder, Script Includes, Busines Rules.</p>
+</br></br>
+
 <!--Hobbies-->
 
 <h2>Hobbies:</h2>
