@@ -42,5 +42,4 @@
         <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></br></br>
     </div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorevi&layout=compact&theme=synthwave"></a>
-<img align="right" alt="Evi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/701172883518390302/1070767933200007188/baixados.jpg">
 </boby>
