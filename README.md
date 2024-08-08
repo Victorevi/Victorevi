@@ -15,8 +15,8 @@
 
 <!--Profissional-->
 
-<h2>Profissional:</h2>
-<p style="font-size: 15px;">Sou desenvolvedor ServiceNow, e desenvolvo soluções customizadas, utilizando JavaScript e Python. Possuo profundo conhecimento da plataforma ServiceNow, incluindo RPA, Mid Server, Ui Builder, Script Includes, Busines Rules.</p>
+<h2>Occupational:</h2>
+<p style="font-size: 15px;">I'm a ServiceNow developer, creating custom solutions using JavaScript and Python. I have deep knowledge of the ServiceNow platform, including RPA, Mid Server, Ui Builder, Script Includes, and Business Rules.</p>
 </br></br>
 
 <!--Hobbies-->
